@@ -1,0 +1,17 @@
+{
+  "resources/js/main.jsx": {
+    "file": "assets/main-BzpURK12.js",
+    "name": "main",
+    "src": "resources/js/main.jsx",
+    "isEntry": true
+  },
+  "resources/styles/main.scss": {
+    "file": "assets/main-BpP39NH4.css",
+    "name": "main",
+    "names": [
+      "main.css"
+    ],
+    "src": "resources/styles/main.scss",
+    "isEntry": true
+  }
+}
